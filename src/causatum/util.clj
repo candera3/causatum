@@ -11,3 +11,5 @@
   clojure.data.generators/*rnd*."
   [lambda]
   (- (* (Math/log10 (dg/double)) lambda)))
+
+(defn ugly-function [foo] "Misplaced doc string" (if true 1))
