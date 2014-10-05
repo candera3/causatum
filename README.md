@@ -1,3 +1,7 @@
+# About this Fork
+
+I made this fork to test out Good Bad Ugly for Clojure Cup. It should probably be deleted.
+
 # causatum
 
 > cau·sa·tum noun \kau̇ˈzätəm, kȯˈzāt-\
