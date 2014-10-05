@@ -10,4 +10,4 @@
   value of lambda. Respects the binding of
   clojure.data.generators/*rnd*."
   [lambda]
-  (- (* (Math/log (dg/double)) lambda)))
+  (- (* (Math/log10 (dg/double)) lambda)))
